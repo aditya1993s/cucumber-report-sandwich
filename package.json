@@ -1,0 +1,16 @@
+{
+  "name": "cucumber-report-sandwich",
+  "version": "1.0.0",
+  "description": "This project helps you to merge multiple cucumber JSONs and will generate one Cucumber HTML report",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cucumber-html-reporter": "^6.0.0",
+    "nexe": "^4.0.0-rc.2"
+  }
+}
